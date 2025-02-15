@@ -13,7 +13,7 @@ The project involves:
 
 
 ## 📑 Report PDFs
-- [Documentation](https://github.com/alex-xiarchos/ceid-datastructures/blob/main/1059619_1059633_ΑΝΑΦΟΡΑ.pdf)
+- [Report](https://github.com/alex-xiarchos/ceid-datastructures/blob/main/1059619_1059633_ΑΝΑΦΟΡΑ.pdf)
 
 
 ## 💻 Technologies Used
